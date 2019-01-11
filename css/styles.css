@@ -212,7 +212,7 @@ body {
   color: blue;
 }
 
-@media screen and (max-width: 600px) {
+@media all screen and (max-width: 600px) {
   .menu {
     height: 100px;
     line-height: 15px;
